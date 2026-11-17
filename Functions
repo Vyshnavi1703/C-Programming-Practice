@@ -1,0 +1,16 @@
+# C Programming – Functions and Recursion
+
+## Overview
+This directory contains C programming exercises demonstrating modular programming using functions and solving problems through recursive techniques.
+
+## Topics Covered
+- Function declaration, definition, and function calls
+- Function parameters and return values
+- Call by value
+- Recursive function calls
+- Factorial using recursion
+- Fibonacci series using recursion
+- Recursion-based problem solving
+
+## Objective
+To understand function-based program organisation and recursion in C through practical implementation and problem-solving exercises.
